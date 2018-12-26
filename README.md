@@ -9,3 +9,7 @@
 
 + windows：Anaconda+Python3.7+PyCharm，要添加一堆的环境变量，头大。
 
+## 创建Django项目
+```bach
+$ django-admin startproject mysite
+```
